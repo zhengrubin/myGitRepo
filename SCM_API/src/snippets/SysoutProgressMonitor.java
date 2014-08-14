@@ -1,12 +1,5 @@
 package snippets;
-/*******************************************************************************
- * Licensed Materials - Property of IBM
- * (c) Copyright IBM Corporation 2006, 2012. All Rights Reserved. 
- * 
- * Note to U.S. Government Users Restricted Rights:  Use, 
- * duplication or disclosure restricted by GSA ADP Schedule 
- * Contract with IBM Corp.
- *******************************************************************************/
+
 import org.eclipse.core.runtime.IProgressMonitor;
 
 public class SysoutProgressMonitor implements IProgressMonitor {
